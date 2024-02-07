@@ -26,3 +26,7 @@ cap.release()
 cv2.destroyAllWindows()
 
 
+"""IF we want to detect recored video file or images we can use below methods"""
+
+
+
