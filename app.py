@@ -1,4 +1,6 @@
 import cv2 
+import flask as Flask
+
 # Load the face cascade classifier
 face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
